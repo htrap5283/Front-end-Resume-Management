@@ -6,36 +6,36 @@
 
 ## Features
 
-- ![🔒] **User Authentication**: Secure login to access the application.
-- ![📝] **Employee Personal Details Form**: Form to enter and manage employee details.
-- ![📊] **Project Details Form**: Add and manage information about projects.
-- ![🏆] **Skills and Certifications Form**: Manage skills and certifications related to employees.
-- ![🔍] **Search and Display**: Search for employees and view detailed information.
-- ![📄] **PDF Generation**: Generate and download resumes in PDF format.
-- ![📱] **Responsive Design**: Fully responsive design for mobile and desktop devices.
+- 🔒 **User Authentication**: Secure login to access the application.
+- 📝 **Employee Personal Details Form**: Form to enter and manage employee details.
+- 📊 **Project Details Form**: Add and manage information about projects.
+- 🏆 **Skills and Certifications Form**: Manage skills and certifications related to employees.
+- 🔍 **Search and Display**: Search for employees and view detailed information.
+- 📄 **PDF Generation**: Generate and download resumes in PDF format.
+- 📱 **Responsive Design**: Fully responsive design for mobile and desktop devices.
 
 ## Technologies Used
 
 - **Frontend:**
-
-  - ![React] **React**: JavaScript library for building user interfaces.
-  - ![Redux Toolkit] **Redux Toolkit**: For state management.
-  - ![React Router] **React Router DOM**: For routing and navigation.
-  - ![Axios] **Axios**: For making HTTP requests.
-  - ![Bootstrap] **Bootstrap**: For styling and responsive design.
-  - ![MUI] **MUI (Material UI)**: For additional UI components and styling.
-  - ![React-Quill] **React-Quill**: Rich text editor for text inputs.
-  - ![React Tags Input]*React Tags Input**: Manage tags and keywords.
-  - ![HTML2PDF]and ![JSPDF]*HTML2PDF.js** and **JSPDF**: Generate PDF documents from HTML content.
+  - **React**: JavaScript library for building user interfaces.
+  - **Redux Toolkit**: For state management.
+  - **React Router DOM**: For routing and navigation.
+  - **Axios**: For making HTTP requests.
+  - **Bootstrap**: For styling and responsive design.
+  - **MUI (Material UI)**: For additional UI components and styling.
+  - **React-Quill**: Rich text editor for text inputs.
+  - **React Tags Input**: Manage tags and keywords.
+  - **HTML2PDF.js** and **JSPDF**: Generate PDF documents from HTML content.
 
 - **Development Tools:**
-
-  - ![React Scripts]**React Scripts**: Scripts for managing the React application lifecycle.
-  - ![ESLint]**ESLint**: For linting JavaScript code and ensuring code quality.
+  - **React Scripts**: Scripts for managing the React application lifecycle.
+  - **ESLint**: For linting JavaScript code and ensuring code quality.
 
 ## Project Structure
 
 The project is organized as follows:
+
+
 
 ```
 /front-end-resume-management
