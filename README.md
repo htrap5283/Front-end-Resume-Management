@@ -6,31 +6,32 @@
 
 ## Features
 
-- **User Authentication**: Secure login to access the application.
-- **Employee Personal Details Form**: Form to enter and manage employee details.
-- **Project Details Form**: Add and manage information about projects.
-- **Skills and Certifications Form**: Manage skills and certifications related to employees.
-- **Search and Display**: Search for employees and view detailed information.
-- **PDF Generation**: Generate and download resumes in PDF format.
-- **Responsive Design**: Fully responsive design for mobile and desktop devices.
+- ![🔒](https://img.icons8.com/ios-filled/50/000000/lock.png) **User Authentication**: Secure login to access the application.
+- ![📝](https://img.icons8.com/ios-filled/50/000000/edit.png) **Employee Personal Details Form**: Form to enter and manage employee details.
+- ![📊](https://img.icons8.com/ios-filled/50/000000/project.png) **Project Details Form**: Add and manage information about projects.
+- ![🏆](https://img.icons8.com/ios-filled/50/000000/award.png) **Skills and Certifications Form**: Manage skills and certifications related to employees.
+- ![🔍](https://img.icons8.com/ios-filled/50/000000/search.png) **Search and Display**: Search for employees and view detailed information.
+- ![📄](https://img.icons8.com/ios-filled/50/000000/file.png) **PDF Generation**: Generate and download resumes in PDF format.
+- ![📱](https://img.icons8.com/ios-filled/50/000000/phone.png) **Responsive Design**: Fully responsive design for mobile and desktop devices.
 
 ## Technologies Used
 
 - **Frontend:**
 
-  - **React**: JavaScript library for building user interfaces.
-  - **Redux Toolkit**: For state management.
-  - **React Router DOM**: For routing and navigation.
-  - **Axios**: For making HTTP requests.
-  - **Bootstrap**: For styling and responsive design.
-  - **MUI (Material UI)**: For additional UI components and styling.
-  - **React-Quill**: Rich text editor for text inputs.
-  - **React Tags Input**: Manage tags and keywords.
-  - **HTML2PDF.js** and **JSPDF**: Generate PDF documents from HTML content.
+  - ![React](https://img.icons8.com/ios-filled/50/000000/react.png) **React**: JavaScript library for building user interfaces.
+  - ![Redux Toolkit](https://img.icons8.com/ios-filled/50/000000/redux.png) **Redux Toolkit**: For state management.
+  - ![React Router](https://img.icons8.com/ios-filled/50/000000/route.png) **React Router DOM**: For routing and navigation.
+  - ![Axios](https://img.icons8.com/ios-filled/50/000000/axios.png) **Axios**: For making HTTP requests.
+  - ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png) **Bootstrap**: For styling and responsive design.
+  - ![MUI](https://img.icons8.com/ios-filled/50/000000/material-ui.png) **MUI (Material UI)**: For additional UI components and styling.
+  - ![React-Quill](https://img.icons8.com/ios-filled/50/000000/editor.png) **React-Quill**: Rich text editor for text inputs.
+  - ![React Tags Input](https://img.icons8.com/ios-filled/50/000000/tag.png) **React Tags Input**: Manage tags and keywords.
+  - ![HTML2PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png) and ![JSPDF](https://img.icons8.com/ios-filled/50/000000/pdf.png) **HTML2PDF.js** and **JSPDF**: Generate PDF documents from HTML content.
 
 - **Development Tools:**
-  - **React Scripts**: Scripts for managing the React application lifecycle.
-  - **ESLint**: For linting JavaScript code and ensuring code quality.
+
+  - ![React Scripts](https://img.icons8.com/ios-filled/50/000000/script.png) **React Scripts**: Scripts for managing the React application lifecycle.
+  - ![ESLint](https://img.icons8.com/ios-filled/50/000000/lint.png) **ESLint**: For linting JavaScript code and ensuring code quality.
 
 ## Project Structure
 
@@ -107,7 +108,6 @@ npm start
 ```
 
 This will start the application at http://localhost:3000.
-
 Configuration
 API Endpoints: Ensure that your backend server is running at http://localhost:8080 or adjust API URLs in the service files as needed.
 Usage
@@ -116,9 +116,7 @@ Log In: Use the login page to authenticate.
 Navigate Through Sections: Use the navigation bar to access different forms and features.
 Fill Out Forms: Input employee details, project information, and manage skills and certifications.
 Generate PDFs: Use the provided features to create and download resumes in PDF format.
-
 Contribution
-
 Contributions are welcome! To contribute:
 
 Fork the repository.
@@ -135,6 +133,7 @@ Redux Toolkit: For managing application state.
 Bootstrap: For styling and responsive layout.
 MUI: For Material Design components.
 React-Quill: For rich text editing capabilities.
+and
 HTML2PDF.js and JSPDF: For PDF generation.
 Contact
-For questions or further information, please contact [parthjp5283@gmail.com].
+For questions or further information, please contact parthjp5283@gmail.com.
