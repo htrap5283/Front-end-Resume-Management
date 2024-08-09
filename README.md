@@ -17,6 +17,7 @@
 ## Technologies Used
 
 - **Frontend:**
+
   - **React**: JavaScript library for building user interfaces.
   - **Redux Toolkit**: For state management.
   - **React Router DOM**: For routing and navigation.
@@ -34,8 +35,6 @@
 ## Project Structure
 
 The project is organized as follows:
-
-
 
 ```
 /front-end-resume-management
