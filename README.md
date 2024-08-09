@@ -84,7 +84,7 @@ To get started with the project:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/front-end-resume-management.git
+git clone https://github.com/htrap5283/Front-end-Resume-Management.git
 ```
 
 Navigate to the project directory:
